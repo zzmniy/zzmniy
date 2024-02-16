@@ -1,5 +1,5 @@
- 👋 Hi, I’m @zzmniy
- 🌱 I’m currently learning HTML, CSS, JavaScript
+ 👋 Hi, I’m zzmniy
+
 
 
 <!---
